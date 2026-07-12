@@ -1,0 +1,6 @@
+{
+  "name": "discord-proxy",
+  "version": "1.0.0",
+  "description": "Discord API proxy",
+  "main": "api/proxy.js"
+}
